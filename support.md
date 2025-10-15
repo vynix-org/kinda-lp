@@ -106,7 +106,7 @@ Found a bug? We want to know about it! Please include:
 
 ## Feature Requests
 
-Have an idea for improving Kinda - Virtual Character? We'd love to hear it! Send your suggestions to [hello@kinda.aicharacter.chat](mailto:hello@kinda.aicharacter.chat).
+Have an idea for improving Kinda - Virtual Character? We'd love to hear it! Send your suggestions to [general.kinda@gmail.com](mailto:general.kinda@gmail.com).
 
 ## System Requirements
 

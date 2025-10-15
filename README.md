@@ -121,7 +121,7 @@ At Kinda - Virtual Character, your privacy comes first:
 
 ### Getting Help
 
-- **📧 Email Support**: hello@kinda.aicharacter.chat
+- **📧 Email Support**: general.kinda@gmail.com
 - **📱 In-App Support**: Settings → Contact Support
 - **📖 Documentation**: [FAQ](faq.md) | [Support](support.md)
 
@@ -141,7 +141,7 @@ This project is proprietary software owned by Generous Tech Inc.
 
 ## 📞 Contact Us
 
-- **Email**: hello@kinda.aicharacter.chat
+- **Email**: general.kinda@gmail.com
 
 ---
 

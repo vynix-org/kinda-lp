@@ -157,7 +157,7 @@ No, we do not use your personal conversations to train AI models. Your privacy i
 
 ### How do I delete my account and data?
 
-Contact us at hello@kinda.aicharacter.chat to request account deletion. We'll remove all your data within 30 days.
+Contact us at general.kinda@gmail.com to request account deletion. We'll remove all your data within 30 days.
 
 ## 📱 Device Compatibility
 
@@ -234,7 +234,7 @@ Quick and entertaining! Most video clips are ready in just 15-45 seconds, perfec
 
 ### Where can I suggest new features?
 
-We love hearing your ideas! Send feature requests to hello@kinda.aicharacter.chat or use the feedback option in Settings.
+We love hearing your ideas! Send feature requests to general.kinda@gmail.com or use the feedback option in Settings.
 
 ### How do I report a bug?
 
